@@ -1,0 +1,24 @@
+{
+  "version": 3,
+  "homepages": {
+    "Main Homepage": {
+      "version": 2,
+      "openOnStartup": true,
+      "hasRibbonIcon": true,
+      "openMode": "Keep open notes",
+      "manualOpenMode": "Keep open notes",
+      "view": "Reading view",
+      "revertView": true,
+      "refreshDataview": true,
+      "autoCreate": false,
+      "autoScroll": false,
+      "pin": true,
+      "value": "Dashboard/Home",
+      "kind": "File",
+      "commands": [],
+      "openWhenEmpty": true,
+      "alwaysApply": true
+    }
+  },
+  "separateMobile": false
+}
